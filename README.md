@@ -314,7 +314,7 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | LARAVEL |
 | --- |
-|| [![White Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/166/original/opt_blkp_laravel_thumbnail.jpg?1561727757)](https://www.creative-tim.com/live/white-dashboard-pro-laravel/?ref=wdl-readme)
+| [![White Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/214/original/opt_wdp_laravel_thumbnail.jpg?1567087443)](https://www.creative-tim.com/live/white-dashboard-pro-laravel/?ref=wdl-readme)
 
 ## Demo
 
@@ -960,7 +960,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | LARAVEL |
 | --- |
-| [![White Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/166/original/opt_blkp_laravel_thumbnail.jpg?1561727757)](https://www.creative-tim.com/live/white-dashboard-pro-laravel/?ref=wdl-readme) |
+| [![White Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/214/original/opt_wdp_laravel_thumbnail.jpg?1567087443)](https://www.creative-tim.com/live/white-dashboard-pro-laravel/?ref=wdl-readme) |
 
 ## Change log
 
