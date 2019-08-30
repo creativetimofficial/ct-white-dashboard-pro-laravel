@@ -325,10 +325,10 @@ The policy which authorizes the user on item management pages is implemented in 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
 | [![Profile Page](https://github.com/creativetimofficial/public-assets/raw/master/white-dashboard-pro-laravel/Profile.png)](https://white-dashboard-pro-laravel.creative-tim.com/profile?ref=wdl-readme)  | [![Users Page](https://github.com/creativetimofficial/public-assets/raw/master/white-dashboard-pro-laravel/Users.png)](https://white-dashboard-pro-laravel.creative-tim.com/user?ref=wdl-readme) | [![Tables Page](https://github.com/creativetimofficial/public-assets/raw/master/white-dashboard-pro-laravel/Tables.png)](https://white-dashboard-pro-laravel.creative-tim.com/regular-tables?ref=wdl-readme)
-[View More](https://white-dashboard-pro-laravel.creative-tim.com/?ref=wdl-readme)
+[View More](https://www.creative-tim.com/live/white-dashboard-pro-laravel?ref=wdl-readme)
 
 ## Documentation
-The documentation for the White Dashboard Laravel is hosted at our [website](https://white-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=bdlreadme).
+The documentation for the White Dashboard Laravel is hosted at our [website](https://www.creative-tim.com/live/white-dashboard-pro-laravel/?start-page=/docs/getting-started/laravel-setup.html&ref=wdl-readme).
 
 ## File Structure
 ```
@@ -952,7 +952,7 @@ At present, we officially aim to support the last two versions of the following 
 ## Resources
 - Demo: <https://www.creative-tim.com/live/white-dashboard-pro-laravel/?ref=wdl-readme>
 - Download Page: <https://www.creative-tim.com/product/white-dashboard-pro-laravel?ref=wdl-readme>
-- Documentation: <https://white-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=wdl-readme>
+- Documentation: <https://www.creative-tim.com/live/white-dashboard-pro-laravel/?start-page=/docs/getting-started/laravel-setup.html&ref=wdl-readme>
 - License Agreement: <https://www.creative-tim.com/license?ref=wdl-readme>
 - Support: <https://www.creative-tim.com/contact-us?ref=wdl-readme>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-white-dashboard-pro-laravel/issues)
