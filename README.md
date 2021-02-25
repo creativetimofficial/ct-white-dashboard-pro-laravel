@@ -982,7 +982,7 @@ We use GitHub Issues as the official bug tracker for the White Dashboard Laravel
 ## Licensing
 
 - Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=wdl-readme)
-- [Creative Tim License](https://www.creative-tim.com/license?ref=wdl-readme).
+- Creative Tim License (https://www.creative-tim.com/license?ref=wdl-readme).
 
 
 ## Useful Links
