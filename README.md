@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-white-dashboard-pro-laravel.svg)](https://github.com/creativetimofficial/ct-white-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-white-dashboard-pro-laravel/ct-white-dashboard-pro-laravel.svg)](https://github.com/creativetimofficial/ct-white-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
-<img src="https://github.com/creativetimofficial/public-assets/raw/master/white-dashboard-pro-laravel/white-dashboard-pro-laravel.gif?raw=true" width=100% />
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/214/original/opt_wdp_laravel_thumbnail.jpg?1567087443" width="100%" />](https://www.creative-tim.com/live/white-dashboard-pro-laravel/?ref=wdl-readme)
 
 Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 8.x and up.
 
@@ -310,7 +310,7 @@ The policy which authorizes the user on item management pages is implemented in 
 * [Useful Links](#useful-links)
 
 ## Versions
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=wdl-readme)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://white-dashboard-pro-laravel.creative-tim.com/?ref=wdpl-readme)
 
 | LARAVEL |
 | --- |
