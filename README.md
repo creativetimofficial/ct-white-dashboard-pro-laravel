@@ -4,7 +4,7 @@
 
 [<img src="https://s3.amazonaws.com/creativetim_bucket/products/214/original/opt_wdp_laravel_thumbnail.jpg?1567087443" width="100%" />](https://www.creative-tim.com/live/white-dashboard-pro-laravel/?ref=wdl-readme)
 
-Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 8.x and up.
+Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 9.x and up.
 
 ## Prerequisites
 
