@@ -30,3 +30,7 @@ All notable changes to `Laravel White Dashboard Pro` theme for Laravel will be d
 ## Version 1.0.4
 
 - Update to Laravel 9.x
+
+## Version 1.1.0
+
+- Update to Laravel 11.x
